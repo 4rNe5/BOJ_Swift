@@ -1,2 +1,3 @@
 # BOJ_Swift
-> 1일 1커밋 기본 원칙.
+> 지금부터 Swift로만 Platinum 등반하기.
+> 2023.12.10 Bronze 1 Start ~
