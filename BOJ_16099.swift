@@ -1,3 +1,6 @@
+// I Can't Solve This Now...
+
+
 var inputCnt: UInt64 = UInt64(readLine()!)!
 
 func printBig(eur: UInt64, tel: UInt64) -> String {
